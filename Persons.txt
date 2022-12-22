@@ -1,0 +1,3 @@
+Person{,Name=',Hina Khalid,', CNIC=',2345,', number=',03004511752,',},
+Person{,Name=',Hassan,', CNIC=',2343,', number=',0301411534,',},
+Person{,Name=',Kashif,', CNIC=',4444,', number=',0301411534,',},

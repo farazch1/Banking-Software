@@ -1,0 +1,6 @@
+Customer{,Name,Kashif,CNIC:,4444,Number: ,0301411534,},CID-1
+Customer{,Name,Hina Khalid,CNIC:,2345,Number: ,03004511752,},CID-2
+Customer{,Name,Hassan,CNIC:,2343,Number: ,0301411534,},CID-3
+Customer{,Name,Kashif,CNIC:,4444,Number: ,0301411534,},CID-4
+Customer{,Name,Kashif,CNIC:,4444,Number: ,0301411534,},CID-5
+Customer{,Name,Kashif,CNIC:,4444,Number: ,0301411534,},CID-6
